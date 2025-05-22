@@ -1,0 +1,92 @@
+.guro{
+    width: 100%;
+    max-width: 2500px;
+    height: 700px;
+    background: 
+    url('photo/fon1.PNG') no-repeat center/cover,
+    linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5));
+    margin-left:auto;
+}
+
+.gomno{
+    color:rgb(86, 49, 166);
+    text-shadow: rgba(0, 0, 0, 0.356) 3px 2px 2px;
+    margin-left:50px;
+}
+
+.ural{
+    color:aliceblue;
+    text-shadow: rgba(0, 0, 0, 0.356) 3px 2px 2px;
+    margin: 70px;
+}
+
+button{
+    background-color:rgb(172, 153, 218);
+    border-color: rgb(232, 213, 249); 
+    color:aliceblue;
+    padding: 0 10px 0 10px;
+}
+
+.lone{
+    background: 
+    url('photo/switchbodydark.png') no-repeat center/cover,
+    linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5));
+    padding: 30px 10px 30px 10px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border-color:rgb(255, 255, 255);
+}
+
+.vova{
+    margin:20px;
+    position: relative;
+    display: flex;
+    justify-content: center;
+}
+
+.card-body{
+    margin:10px;
+    max-height: 300px;
+}
+
+.gk{
+    width:100%
+}
+
+.boben{
+    color: rgb(86, 49, 166);
+    margin-left: 70px;
+    text-shadow: rgba(0, 0, 0, 0.356) 3px 2px 2px;
+}
+
+.out{
+    font-style: italic;
+    margin:60px 150px 60px 150px ;
+}
+
+.cright{
+    text-align: right;
+    margin: 30px;
+    font-style: italic;
+}
+
+.cmh{
+    background-color: rgb(219, 202, 235);
+    width: 100%;
+    text-align: center;
+    padding-bottom: 50px;
+    padding-top: 20px;
+    background: 
+    url('photo/fon2.png') no-repeat center/cover,
+    linear-gradient(rgb(165, 138, 192), rgb(255, 255, 255));
+}
+
+.gorb{
+    margin: 10px 50px;
+}
+
+.sobek{
+    color: rgb(86, 49, 166);
+    text-shadow: rgba(0, 0, 0, 0.356) 3px 2px 2px;
+    margin-bottom: 50px;
+}
+
