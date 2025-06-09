@@ -90,3 +90,12 @@ button{
     margin-bottom: 50px;
 }
 
+.vika{
+    background: 
+    linear-gradient(to bottom,rgb(165, 138, 192), rgb(255, 255, 255))
+}
+
+.slot{
+    box-shadow: 5px 5px 5px #8a5e9dcd;
+}
+
